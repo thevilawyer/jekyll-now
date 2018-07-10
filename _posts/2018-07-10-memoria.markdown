@@ -13,4 +13,3 @@ blog: true
 1. Ricerca relativi ai fori di facciata dei palazzi siti in Corso Cavour (ricerca storica, Biblioteca Veronensia);
 2. Le vetrate, di cui in oggetto, non esistevano.
 3. Prima era presente una farmacia, in un palazzo con porte e scuretti ma non c’erano volte. 
-4. 
