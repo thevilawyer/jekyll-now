@@ -4,7 +4,7 @@ title: ""Memoria""
 date: 2018-07-10
 author: The Evil Lawyer
 tags:
-  - Ricerche 
+  - Memorie
 category: blog
 blog: true
 ---
