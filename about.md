@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Informazioni
+permalink: /info/
 ---
 
-Some information about you!
+Sono un giovane professionista di 33 anni e, come Cristo, sento che questa sia proprio l'ora X.
 
-### More Information
+### Alcuni dettagli aggiuntivi (curriculum vitae di un pallone gonfiato)
 
-A place to include any other types of information that you'd like to include about yourself.
+Bello.
+Ricco.
+Intelligente.
+Modesto.
+Dominus Studio Legale Rigo
+Socio Casa Editrice Dinp (sbahm!)
+Socio Yard Restaurant (www. yardrestaurant.it)
+Padre di due splendidi gemelli, Lorenzo e Nicolò
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Chiamami (e disturbami mentre finalmente mi godo del meritato riposo
+[rigo@studiolegalerigo.com](mailto:rigo@studiolegalerigo.com)
+Contattami soprattutto nel weekend. Amo lavorare la domenica.
