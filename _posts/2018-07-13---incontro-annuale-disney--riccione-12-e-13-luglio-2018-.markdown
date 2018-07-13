@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "##INCONTRO ANNUALE DISNEY - RICCIONE 12 E 13 LUGLIO 2018 "
+title: "INCONTRO ANNUALE DISNEY - RICCIONE 12 E 13 LUGLIO 2018 "
 date: 2018-07-13
 author: Carloalberto Rigo
 tags:
