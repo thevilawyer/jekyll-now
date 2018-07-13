@@ -13,6 +13,8 @@ Sono un giovane professionista di 33 anni. *Like Jesus I feel fantastic in this 
 3. Intelligente.
 4. Modesto.
 
+Le qualità di cui sopra sono da intendersi in ordine di importanza.
+
 Dominus Studio Legale Rigo.
 
 Socio Casa Editrice Dinp. 
