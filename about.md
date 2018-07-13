@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informazioni
-permalink: /info/
+permalink: /about/
 ---
 
 Sono un giovane professionista di 33 anni e, come Cristo, sento che questa sia proprio l'ora X.
@@ -12,10 +12,10 @@ Bello.
 Ricco.
 Intelligente.
 Modesto.
-Dominus Studio Legale Rigo
-Socio Casa Editrice Dinp (sbahm!)
-Socio Yard Restaurant (www. yardrestaurant.it)
-Padre di due splendidi gemelli, Lorenzo e Nicolò
+Dominus Studio Legale Rigo.
+Socio Casa Editrice Dinp (sbahm!).
+Socio Yard Restaurant (www. yardrestaurant.it).
+Padre di due splendidi gemelli, Lorenzo e Nicolò.
 
 ### Chiamami (e disturbami mentre finalmente mi godo del meritato riposo
 [rigo@studiolegalerigo.com](mailto:rigo@studiolegalerigo.com)
