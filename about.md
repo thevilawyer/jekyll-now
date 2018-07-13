@@ -2,6 +2,7 @@
 layout: page
 title: Informazioni
 permalink: /about/
+published: true
 ---
 
 Sono un giovane professionista di 33 anni. *Like Jesus I feel fantastic in this world of plastic.*
