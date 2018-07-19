@@ -1,24 +1,28 @@
 ---
 layout: page
 title: Informazioni
-permalink: /info/
+permalink: /about/
+published: true
 ---
 
-Sono un giovane professionista di 33 anni e, come Cristo, al tempo, sento che questa sia per me l'oraX, più dell'iPhone del decennale.
-
+SSono un giovane professionista di 33 anni e, come Cristo, sento che questa sia ora X.
 ### Alcuni dettagli aggiuntivi (a.l.a. curriculum vitae di un pallone gonfiato)
 
-Bello.
-Ricco.
-Intelligente.
-Modesto.
-Dominus (head pf per gli anglofoni) Studio Legale Rigo.
-Socio Casa Editrice Dinp (sbahm!, pubblico anche tramite canali seri ed istituzionali).
-Socio Yard Restaurant (www. yardrestaurant.it)
-Padre di due splendidi gemelli, Lorenzo e Nicolò
+1. Bello.
+2. Ricco.
+3. Intelligente.
+4. Modesto.
+Un po' di cose in cui mi diletto
 
-### Chiamami (e disturbami mentre finalmente mi godo del meritato riposo nel weekend)
+Dominus Studio Legale Rigo.
+
+Socio Casa Editrice Dinp (sbahm!)[Dinp-Vr](www.dinpitaly.it).
+
+Socio Yard Restaurant [yardrestaurant verona](www.yardrestaurant.it).
+
+Padre di due splendidi gemelli, Lorenzo e Nicolò.
+
+### Chiamami (e disturbami mentre finalmente mi godo del meritato riposo
 
 [rigo@studiolegalerigo.com](mailto:rigo@studiolegalerigo.com)
-
-Contattami soprattutto nel weekend. Amo lavorare la domenica, con i figli che piangono a dirotto.
+Contattami soprattutto nel weekend. Amo lavorare la domenica.
