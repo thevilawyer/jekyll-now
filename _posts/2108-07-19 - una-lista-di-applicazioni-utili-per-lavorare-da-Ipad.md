@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Una lista di applicazioni utili per lavorare da Ipad
+title: "Una lista di applicazioni utili per lavorare da Ipad"
 date: 2018-07-19
 author: The Evil Lawyer
 tags:
