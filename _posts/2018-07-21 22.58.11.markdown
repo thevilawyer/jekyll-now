@@ -1,4 +1,13 @@
-# SACRIFICIO
+---
+layout: post
+title: "SACRIFICIO"
+date: 2018-07-21
+author: The Evil Lawyer
+tags:
+  - Scrittura
+category: blog
+blog: true
+---
 
 Non capisci il significato di questa parola fimo a che non hai dei figli.
 
