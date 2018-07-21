@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+optional_front_matter:
+  remove_originals: true
