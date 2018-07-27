@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Una lista di applicazioni utili per lavorare da Ipad
-date: 2018-07-19
+date: {}
 author: The Evil Lawyer
 tags:
   - setup
 category: blog
 blog: true
+published: true
 ---
+![download.png]({{site.baseurl}}/_posts/download.png)
 
 Con l’avvento dell’IPad Pro, anche il sottoscritto, come molti altri utenti Apple, ammaliato dalle infinite possibilità offerte dal dispositivo, ho deciso di affrontare il distacco dal mio amatissimo MacBook Pro 15, provando ad utilizzare il Tablet come unico strumento di lavoro ultraportatile.
 
@@ -31,4 +33,4 @@ Grazie alla fulminea sincronizzazione con ICloud ho dimenticato una volta per tu
 L’applicazione è altamente personalizzabile. Si possono utilizzare font diversi da quelli di sistema (differenti dal _San Francisco_ font per intenderci), impostare una modalit’ di scrittura cosidetta _focus_ che ci permette di concentrare le energie e l-attenzione solo su quello che stiamo scrivendo, un tema scuro che interessa l’intera UI.
 
 
-2. 
+2.
