@@ -9,7 +9,7 @@ category: blog
 blog: true
 ---
 
-Non capisci il significato di questa parola fimo a che non hai dei figli.
+Non capisci il significato di questa parola fino a che non hai dei figli.
 
 _che sacrificio lo studio_ sono cazzate!
 
