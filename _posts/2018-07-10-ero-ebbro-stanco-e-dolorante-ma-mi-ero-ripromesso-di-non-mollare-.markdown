@@ -9,8 +9,8 @@ category: blog
 blog: true
 ---
 
-Almeno non a quel punto. 
-
+Almeno non a quel punto. Mi sembrava di cedere!](http://)
+![Alt text](http://)
 La serata era stata a dir poco frenetica.
   
 Ero uscito quasi per caso e mi ero fermato in uno di quei nuovi locali alla moda che ultimamente stavano nascendo come funghi in Corso Cavour.
